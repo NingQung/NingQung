@@ -1,6 +1,6 @@
 - |  凝洸 / NingQung
-- |  Coding : c++ / javascript / java / python
-- |  Gaming : Arknight
+- |  Coding : c++ / javascript / java / python / html / css
+- |  Gaming : Arknight / Apex
 - |  language : 中文 / Eng / Math(?) OK!
 
 <!---
