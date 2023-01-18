@@ -1,7 +1,5 @@
 - |  凝洸 / NingQung
-- |  Coding : c++ / javascript / java / python / html / css / C / C# / PHP
-- |  Gaming : Arknight / Apex
-- |  language : 中文 / Eng / Math(?) OK!
+- |  十年後等著我。
 
 <!---
 NingQung/NingQung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
